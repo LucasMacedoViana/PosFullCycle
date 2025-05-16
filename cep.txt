@@ -1,0 +1,6 @@
+CEP: 60192-120
+Logradouro: Avenida Padre Antônio Tomás
+Complemento: de 2496/2497 ao fim
+Bairro: Cocó
+Localidade: Fortaleza
+UF: CE
